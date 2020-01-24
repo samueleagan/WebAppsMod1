@@ -25,5 +25,5 @@ Hello, My name is Samuel Eagan and I am a senior here at Northwest. I am studyin
 
 ## Credits
 
-[C++ Logo](https://i.redd.it/31b2ii8hchi31.jpg)<br/>
+[C++ Logo](https://i.redd.it/31b2ii8hchi31.jpg)
 [Tux (Linux logo)](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
